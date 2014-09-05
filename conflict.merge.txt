@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Whoa, this is a new file in the GRANDMASTER branch!
+=======
+Whoa, this is a new file in the merge branch!
+>>>>>>> 23f3202318dce08509190aa9374d341ad67be0c7
